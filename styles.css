@@ -122,6 +122,15 @@ p {
   margin-top: 0;
 }
 
+.product-hunt-badge {
+  display: inline-flex;
+  margin: 8px 0 12px;
+}
+
+.product-hunt-badge img {
+  display: block;
+}
+
 .text-link {
   font-weight: 700;
 }
