@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>I built a Finder-style SSH file transfer app for macOS - Turbo SSHuttle</title>
+  <meta name="description" content="The story behind Turbo SSHuttle, a macOS SSH file transfer app for repeated server file work with saved machines, multi-panel browsing, drag-and-drop transfers, and visible progress.">
+  <link rel="canonical" href="https://williamlock.github.io/Turbo-SSHuttle-Support/technical-story.html">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="I built a Finder-style SSH file transfer app for macOS">
+  <meta property="og:description" content="Turbo SSHuttle was built for repeated SSH file work on macOS: saved servers, visual remote browsing, drag-and-drop transfers, and progress tracking.">
+  <meta property="og:url" content="https://williamlock.github.io/Turbo-SSHuttle-Support/technical-story.html">
+  <meta property="og:image" content="https://williamlock.github.io/Turbo-SSHuttle-Support/assets/turbo-sshuttle-social.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="I built a Finder-style SSH file transfer app for macOS">
+  <meta name="twitter:description" content="A founder story for Turbo SSHuttle, a technical macOS app for repeated SSH file transfers.">
+  <meta name="twitter:image" content="https://williamlock.github.io/Turbo-SSHuttle-Support/assets/turbo-sshuttle-social.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="page story-page">
+    <section class="hero compact">
+      <p class="eyebrow">Turbo SSHuttle</p>
+      <h1>I built a Finder-style SSH file transfer app for macOS</h1>
+      <p class="lede">A practical story about too many server logins, too many repeated commands, and why a visual Mac workflow can make SSH file work calmer.</p>
+      <div class="actions">
+        <a class="button" href="https://apps.apple.com/sg/app/turbo-sshuttle/id6775314412?mt=12">Mac App Store</a>
+        <a class="button launch" href="https://www.producthunt.com/products/turbo-sshuttle?launch=turbo-sshuttle">Product Hunt</a>
+        <a class="button secondary" href="index.html">Support Site</a>
+      </div>
+    </section>
+
+    <article class="story-content">
+      <h2>The problem</h2>
+      <p>In my own work, SSH file transfer often became more scattered than it needed to be.</p>
+      <p>One server had one login. Another server had a different path. One workflow used <code>scp</code>, another used <code>rsync</code>, and sometimes I just needed to browse a remote folder before deciding what to copy.</p>
+      <p>Terminal tools are powerful, but repeated file work across multiple SSH-accessible machines can become a lot of small context switches: remembering paths, reopening terminal windows, rebuilding copy commands, checking which server is which, and tracking whether a transfer finished.</p>
+      <p>I wanted a Mac app that made this feel more like working in Finder.</p>
+
+      <h2>The idea</h2>
+      <p>Turbo SSHuttle is a macOS app for SSH file transfer with a multi-panel file browser.</p>
+      <p>The workflow is simple: save SSH-accessible machines, open local and remote folders side by side, drag files between panels, and track transfer progress in the app.</p>
+      <p>The goal is not to replace every command-line workflow. It is to make repeated server file work easier when a visual desktop workflow is faster.</p>
+
+      <h2>What it supports</h2>
+      <ul>
+        <li>Saved SSH machines</li>
+        <li>Local and remote file panels</li>
+        <li>Drag-and-drop file transfers</li>
+        <li>Parallel transfer jobs</li>
+        <li>Transfer progress tracking</li>
+        <li>Trusted SSH host handling</li>
+        <li>macOS Keychain password storage when needed</li>
+        <li>Local-to-remote, remote-to-local, and remote-to-remote workflows</li>
+      </ul>
+
+      <h2>Why macOS</h2>
+      <p>On macOS, a lot of developer work already happens in a visual desktop environment: Finder, editors, terminal windows, preview tools, and local project folders.</p>
+      <p>Turbo SSHuttle tries to fit into that environment instead of forcing every transfer through a remembered command.</p>
+      <p>If I already know which remote folders I use often, I should be able to open them, compare them, and drag files around without reconstructing the same SSH command over and over.</p>
+
+      <h2>How it compares</h2>
+      <p>Terminal tools like <code>ssh</code>, <code>scp</code>, and <code>rsync</code> are still the right tools for many jobs. They are scriptable, reliable, and precise.</p>
+      <p>Apps like FileZilla and Cyberduck are established file transfer tools. Turbo SSHuttle focuses on a narrower Mac desktop workflow: multiple file panels visible at once, saved SSH machines in a clean sidebar, drag-and-drop transfers, visible transfer progress, macOS Keychain integration, and a Finder-style feel for repeated SSH file work.</p>
+
+      <h2>What I want feedback on</h2>
+      <p>I am especially interested in feedback from Mac users who work with servers:</p>
+      <ul>
+        <li>Do you prefer terminal-first file transfer, or a visual workflow for repeated tasks?</li>
+        <li>Is multi-panel browsing useful for your server workflow?</li>
+        <li>Which transfer tasks still feel annoying on macOS?</li>
+        <li>What would make this more useful for developers or sysadmins?</li>
+      </ul>
+
+      <p class="story-cta">Turbo SSHuttle is available on the Mac App Store, and the Product Hunt discussion is open for feedback.</p>
+    </article>
+  </main>
+</body>
+</html>
