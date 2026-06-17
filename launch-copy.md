@@ -6,6 +6,11 @@ https://www.producthunt.com/products/turbo-sshuttle?launch=turbo-sshuttle
 Mac App Store:
 https://apps.apple.com/sg/app/turbo-sshuttle/id6775314412?mt=12
 
+Share images:
+- Square: https://williamlock.github.io/Turbo-SSHuttle-Support/assets/turbo-sshuttle-share-square.png
+- Rednote vertical: https://williamlock.github.io/Turbo-SSHuttle-Support/assets/turbo-sshuttle-rednote-card.png
+- Wide banner: https://williamlock.github.io/Turbo-SSHuttle-Support/assets/turbo-sshuttle-share-wide.png
+
 ## Launch Day Timing
 
 Product Hunt launch:
