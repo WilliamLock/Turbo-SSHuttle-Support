@@ -6,6 +6,9 @@ https://www.producthunt.com/products/turbo-sshuttle?launch=turbo-sshuttle
 Founder story:
 https://williamlock.github.io/Turbo-SSHuttle-Support/technical-story.html
 
+Launch runbook:
+https://williamlock.github.io/Turbo-SSHuttle-Support/launch-day-runbook.md
+
 Mac App Store:
 https://apps.apple.com/sg/app/turbo-sshuttle/id6775314412?mt=12
 
