@@ -6,6 +6,21 @@ https://www.producthunt.com/products/turbo-sshuttle?launch=turbo-sshuttle
 Mac App Store:
 https://apps.apple.com/sg/app/turbo-sshuttle/id6775314412?mt=12
 
+## Launch Day Timing
+
+Product Hunt launch:
+June 18, 2026 at 12:01am PT, visible for 24 hours.
+
+Best manual promotion window:
+8:00am-10:00am PT on June 18, after people are awake.
+
+Priority order:
+1. Share Product Hunt link from the support site and personal channels.
+2. Post a Reddit follow-up only where rules allow.
+3. Post the Xiaohongshu / Rednote Chinese story from the personal account.
+4. Add thoughtful Indie Hackers comments if posting is still locked.
+5. Monitor Product Hunt comments and reply quickly.
+
 ## Short English Post
 
 Turbo SSHuttle is launching on Product Hunt today.
@@ -30,6 +45,19 @@ Mac App Store:
 https://apps.apple.com/sg/app/turbo-sshuttle/id6775314412?mt=12
 
 Feedback from Mac users who work with servers would be very helpful.
+
+## Reddit Follow-Up Comment
+
+Quick update: Turbo SSHuttle is launching on Product Hunt today.
+
+If you work with SSH-accessible servers on macOS and have thoughts on Finder-style file transfer workflows, feedback would be really useful:
+https://www.producthunt.com/products/turbo-sshuttle?launch=turbo-sshuttle
+
+I’m especially interested in what feels most painful today: saved server management, drag-and-drop transfers, remote-to-remote copies, progress tracking, or command-line friction.
+
+## Product Hunt Reply Prompt
+
+Thanks for checking it out. The main thing I’m trying to learn is whether Mac users who regularly work with SSH servers prefer this kind of Finder-style multi-panel workflow, or whether terminal-first workflows still feel faster for most cases.
 
 ## Xiaohongshu / Rednote
 
