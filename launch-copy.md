@@ -9,6 +9,9 @@ https://williamlock.github.io/Turbo-SSHuttle-Support/technical-story.html
 Launch runbook:
 https://williamlock.github.io/Turbo-SSHuttle-Support/launch-day-runbook.md
 
+Rednote post:
+https://williamlock.github.io/Turbo-SSHuttle-Support/rednote.html
+
 Mac App Store:
 https://apps.apple.com/sg/app/turbo-sshuttle/id6775314412?mt=12
 
@@ -114,6 +117,9 @@ Product Hunt:
 https://www.producthunt.com/products/turbo-sshuttle?launch=turbo-sshuttle
 
 App Store 搜索：Turbo SSHuttle
+
+标签：
+#Mac软件 #程序员工具 #SSH #效率工具 #独立开发 #macOS #开发者工具 #服务器运维
 
 ## Posting Checklist
 

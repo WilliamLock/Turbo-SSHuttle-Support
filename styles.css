@@ -205,6 +205,10 @@ code {
   font-size: 14px;
 }
 
+.rednote-preview {
+  max-width: 420px;
+}
+
 .story-cta {
   margin-top: 26px;
   padding: 18px;
