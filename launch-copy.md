@@ -3,6 +3,9 @@
 Product Hunt:
 https://www.producthunt.com/products/turbo-sshuttle?launch=turbo-sshuttle
 
+Founder story:
+https://williamlock.github.io/Turbo-SSHuttle-Support/technical-story.html
+
 Mac App Store:
 https://apps.apple.com/sg/app/turbo-sshuttle/id6775314412?mt=12
 
@@ -28,7 +31,7 @@ Priority order:
 
 ## Short English Post
 
-Turbo SSHuttle is launching on Product Hunt today.
+Turbo SSHuttle is available now on the Mac App Store, and I’m sharing it on Product Hunt.
 
 I built it to make SSH file transfer on macOS feel more like Finder: saved servers, multi-panel browsing, drag-and-drop transfers, and parallel progress tracking.
 
@@ -37,11 +40,14 @@ https://www.producthunt.com/products/turbo-sshuttle?launch=turbo-sshuttle
 
 ## Reddit / Developer Forum Post
 
-Turbo SSHuttle is live on Product Hunt today.
+Turbo SSHuttle is a Mac app I built for repeated SSH file transfer work, and I’m sharing it on Product Hunt.
 
 I built it because repeated SSH file work across different servers started to feel scattered: different logins, paths, terminal windows, and file transfer commands.
 
 Turbo SSHuttle makes that workflow feel more like a native Mac app. You can save SSH-accessible machines, browse local and remote folders side by side, and drag files between panels. It also supports parallel transfer jobs, progress tracking, trusted host handling, and Keychain password storage when needed.
+
+Founder story:
+https://williamlock.github.io/Turbo-SSHuttle-Support/technical-story.html
 
 Product Hunt:
 https://www.producthunt.com/products/turbo-sshuttle?launch=turbo-sshuttle
@@ -53,7 +59,7 @@ Feedback from Mac users who work with servers would be very helpful.
 
 ## Reddit Follow-Up Comment
 
-Quick update: Turbo SSHuttle is launching on Product Hunt today.
+Quick update: Turbo SSHuttle is available on the Mac App Store, and I’m sharing it on Product Hunt.
 
 If you work with SSH-accessible servers on macOS and have thoughts on Finder-style file transfer workflows, feedback would be really useful:
 https://www.producthunt.com/products/turbo-sshuttle?launch=turbo-sshuttle
@@ -63,6 +69,22 @@ I’m especially interested in what feels most painful today: saved server manag
 ## Product Hunt Reply Prompt
 
 Thanks for checking it out. The main thing I’m trying to learn is whether Mac users who regularly work with SSH servers prefer this kind of Finder-style multi-panel workflow, or whether terminal-first workflows still feel faster for most cases.
+
+## Indie Hackers / Builder Community Post
+
+I built Turbo SSHuttle after getting tired of repeated SSH file-transfer chores on macOS.
+
+The app is already available on the Mac App Store. It lets you save SSH machines, open local and remote folders in multiple panels, drag files between panels, and track transfer progress.
+
+The product is intentionally technical and narrow: it is for Mac users who already work with SSH servers, but want a more visual workflow for repeated file movement.
+
+Founder story:
+https://williamlock.github.io/Turbo-SSHuttle-Support/technical-story.html
+
+Product Hunt:
+https://www.producthunt.com/products/turbo-sshuttle?launch=turbo-sshuttle
+
+I’d be very interested in feedback from developers, sysadmins, or indie makers who move files between Macs and servers often.
 
 ## Xiaohongshu / Rednote
 
@@ -82,7 +104,18 @@ Thanks for checking it out. The main thing I’m trying to learn is whether Mac 
 
 如果你平时也经常连服务器、传文件、维护多个环境，可以试试看，也欢迎给我反馈。
 
+产品故事：
+https://williamlock.github.io/Turbo-SSHuttle-Support/technical-story.html
+
 Product Hunt:
 https://www.producthunt.com/products/turbo-sshuttle?launch=turbo-sshuttle
 
 App Store 搜索：Turbo SSHuttle
+
+## Posting Checklist
+
+- Product Hunt: reply quickly to comments and ask for workflow feedback, not only upvotes.
+- Reddit: only post where self-promotion is allowed; lead with the technical problem and ask for feedback.
+- Rednote: use the vertical card image and the Chinese story; mention App Store search if links are inconvenient.
+- Indie Hackers: if posting is locked, leave useful comments in relevant threads first, then share the founder story later.
+- Support site: use the technical story URL when a platform needs a cleaner long-form landing page.
