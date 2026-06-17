@@ -106,6 +106,26 @@ p {
   color: var(--ink);
 }
 
+.button.launch {
+  background: #da552f;
+}
+
+.launch-note {
+  margin-top: 24px;
+  padding: 28px;
+  border: 1px solid #f0c7b7;
+  border-radius: 8px;
+  background: #fff7f4;
+}
+
+.launch-note h2 {
+  margin-top: 0;
+}
+
+.text-link {
+  font-weight: 700;
+}
+
 .content {
   padding: 12px 4px 0;
 }
