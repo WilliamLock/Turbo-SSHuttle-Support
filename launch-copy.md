@@ -30,10 +30,10 @@ Best manual promotion window:
 
 Priority order:
 1. Share Product Hunt link from the support site and personal channels.
-2. Post a Reddit follow-up only where rules allow.
-3. Post the Xiaohongshu / Rednote Chinese story from the personal account.
-4. Add thoughtful Indie Hackers comments if posting is still locked.
-5. Monitor Product Hunt comments and reply quickly.
+2. Post the Xiaohongshu / Rednote Chinese story from the personal account.
+3. Add thoughtful Indie Hackers comments if posting is still locked.
+4. Monitor Product Hunt comments and reply quickly.
+5. Use Reddit later and carefully; the first r/SideProject post was filtered.
 
 ## Short English Post
 
@@ -45,6 +45,8 @@ Would love feedback from Mac users who work with servers:
 https://www.producthunt.com/products/turbo-sshuttle?launch=turbo-sshuttle
 
 ## Reddit / Developer Forum Post
+
+Do not repost this immediately on Reddit. The first r/SideProject post was filtered, so use this only later in a subreddit or developer forum where self-promotion is clearly allowed.
 
 Turbo SSHuttle is a Mac app I built for repeated SSH file transfer work, and I’m sharing it on Product Hunt.
 
@@ -64,6 +66,8 @@ https://apps.apple.com/sg/app/turbo-sshuttle/id6775314412?mt=12
 Feedback from Mac users who work with servers would be very helpful.
 
 ## Reddit Follow-Up Comment
+
+Use later only after the account has more natural activity.
 
 Quick update: Turbo SSHuttle is available on the Mac App Store, and I’m sharing it on Product Hunt.
 

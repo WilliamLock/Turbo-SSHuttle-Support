@@ -37,6 +37,12 @@ Best window:
 
 ## Product Hunt Focus
 
+Prelaunch check:
+- Confirmed scheduled for June 18, 2026 at 12:01 AM PDT.
+- Product page is visible only to people with the link before launch.
+- Upvoting is disabled until the launch is live.
+- First maker comment is already visible on the launch page.
+
 Ask for feedback, not only support.
 
 Good prompt:
