@@ -53,6 +53,9 @@ Reply topics:
 
 ## Reddit Guidance
 
+Current status:
+A Reddit post from u/LockStudio in r/SideProject was filtered by Reddit. Do not repost the same product or a similar link-heavy message immediately.
+
 Use Reddit carefully. Lead with the technical problem and ask for feedback.
 
 Avoid:
@@ -67,6 +70,12 @@ Best links:
 - Product Hunt link for launch feedback
 - Founder story for context
 - Mac App Store link only when allowed
+
+Next Reddit action:
+- leave the filtered post alone
+- comment naturally on relevant Mac or developer discussions first
+- later, try one softer feedback post with one link at most
+- do not post the same launch message across multiple subreddits
 
 ## Rednote Guidance
 
